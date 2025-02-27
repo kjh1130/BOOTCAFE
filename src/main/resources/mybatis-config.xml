@@ -5,5 +5,6 @@
     <typeAliases>
         <!--class alias-->
         <typeAlias type="com.kjh1130.board.dto.BoardDTO" alias="board"/>
+        <typeAlias type="com.kjh1130.board.dto.BoardFileDTO" alias="boardFile"/>
     </typeAliases>
 </configuration>
